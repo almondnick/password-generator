@@ -17,6 +17,7 @@ To use this website, click on the "Generate Password" button. The site will take
 Nick Almond - nickalmond14@gmail.com
 Github Pages Link - https://almondnick.github.io/password-generator/
 Screenshot -
+![Screenshot 2023-10-12 at 3 58 43 PM](https://github.com/almondnick/password-generator/assets/143033339/7368f3b6-578b-40b5-a7a3-ccd31176f376)
 
 ## Credits
 
